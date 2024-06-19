@@ -18,5 +18,5 @@ https://stackoverflow.com/questions/77454741/why-doesnt-app-module-exist-in-angu
 - two way (component <-> template)
 
 
-### 
+### ..
 
