@@ -18,5 +18,11 @@ https://stackoverflow.com/questions/77454741/why-doesnt-app-module-exist-in-angu
 - two way (component <-> template)
 
 
-### ..
+### Module
+- `ng g module <module name>`
+- `ng g c <component name> --module=<module name>`
+
+
+### Service
+- `ng g service <service name>`
 
